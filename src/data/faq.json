@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Wie wird meine Spende verwendet?",
+    "answer": "Ihre Spende wird zu 100% für humanitäre Projekte verwendet. Wir finanzieren damit Nahrungsmittel, medizinische Versorgung, Bildungsprogramme und Notunterkünfte für bedürftige Familien. Unsere Verwaltungskosten werden durch Fördermitgliedschaften gedeckt, sodass jeder gespendete Euro direkt den Menschen in Not zugutekommt."
+  },
+  {
+    "id": 2,
+    "question": "Erhalte ich eine Spendenbescheinigung?",
+    "answer": "Ja, Sie erhalten automatisch eine Spendenbescheinigung per E-Mail. Diese können Sie für Ihre Steuererklärung verwenden. Spenden bis zu 300 Euro können Sie auch mit einem vereinfachten Nachweis (z.B. Kontoauszug) steuerlich geltend machen. Für höhere Beträge senden wir Ihnen die offizielle Zuwendungsbestätigung zu."
+  },
+  {
+    "id": 3,
+    "question": "Ist meine Spende sicher?",
+    "answer": "Ihre Spende ist absolut sicher. Wir verwenden modernste Verschlüsselungstechnologien (SSL) für alle Transaktionen. Ihre persönlichen Daten und Zahlungsinformationen werden vertraulich behandelt und nicht an Dritte weitergegeben. Wir sind als gemeinnützige Organisation anerkannt und werden regelmäßig geprüft."
+  },
+  {
+    "id": 4,
+    "question": "Kann ich auch regelmäßig spenden?",
+    "answer": "Ja, Sie können gerne eine Dauerspende einrichten. Kontaktieren Sie uns einfach per E-Mail oder Telefon, und wir richten für Sie einen monatlichen oder jährlichen Spendenbeitrag ein. Regelmäßige Spenden helfen uns, langfristige Projekte zu planen und nachhaltigen Fortschritt zu erzielen."
+  }
+]
