@@ -2,9 +2,17 @@
 
 Eine interaktive One-Page-Anwendung für eine fiktive Hilfsorganisation, entwickelt mit Vue.js 3 und Vite.
 
-## 🚀 Demo
+## 🌐 Live Demo
 
-Die Anwendung kann lokal gestartet werden mit:
+**� [View Live Application](https://aufgabe-frontend-igelb.vercel.app/)**
+
+Die Anwendung ist live auf Vercel gehostet und kann direkt im Browser getestet werden.
+
+---
+
+## 🚀 Lokale Installation
+
+Die Anwendung kann auch lokal gestartet werden mit:
 
 ```bash
 npm install
