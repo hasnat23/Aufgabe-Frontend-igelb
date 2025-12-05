@@ -354,6 +354,6 @@ Dieses Projekt wurde mit Unterstützung von **GitHub Copilot** entwickelt:
 ---
 
 **Entwickelt von:** Hasnat
-**Zeitaufwand:** ~4 Stunden
+**Zeitaufwand:** ~2 Stunden
 **Datum:** Dezember 2025
 **Tech-Stack:** Vue.js 3 + Tailwind CSS + Vite
