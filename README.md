@@ -13,6 +13,40 @@ npm run dev
 
 Die Anwendung läuft dann unter `http://localhost:5173`
 
+## 📸 Screenshots
+
+### Desktop-Ansicht
+
+#### Hero-Section mit Spendenbarometer
+![Hero Section](screenshots/hero-section-desktop.png)
+*Der Hero-Bereich zeigt das animierte Spendenbarometer mit Fortschrittsbalken, aktuellem Stand und einem prominenten Call-to-Action Button.*
+
+#### Spendenformular
+![Donation Form](screenshots/donation-form-desktop.png)
+*Das Spendenformular mit Quick-Amount-Buttons, Validierung und modernem Design.*
+
+#### FAQ-Accordion
+![FAQ Section](screenshots/faq-section-desktop.png)
+*Die FAQ-Sektion mit erweiterbaren Fragen und Kontaktformular-Option.*
+
+#### Thank You Modal
+![Thank You Modal](screenshots/thank-you-modal.png)
+*Der Erfolgs-Modal nach einer Spende mit Celebration-Animation und Social-Share-Option.*
+
+#### Kontaktformular Modal
+![Contact Form Modal](screenshots/contact-modal.png)
+*Das Kontaktformular-Modal für direkte Anfragen.*
+
+### Mobile-Ansicht
+
+#### Mobile Hero & Formular
+![Mobile View](screenshots/mobile-view.png)
+*Vollständig responsive Darstellung auf mobilen Geräten.*
+
+### Formular-Validierung
+![Form Validation](screenshots/form-validation.png)
+*Inline-Validierung mit klaren Fehlermeldungen und visuellen Hinweisen.*
+
 ## 🛠 Tech-Stack & Entscheidungen
 
 ### Framework-Wahl: Vue.js 3 (Composition API)
